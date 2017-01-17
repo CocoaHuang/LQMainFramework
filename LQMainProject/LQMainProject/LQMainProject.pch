@@ -1,0 +1,17 @@
+//
+//  LQMainProject.pch
+//  LQMainProject
+//
+//  Created by 杭州掌赢科技 on 2017/1/17.
+//  Copyright © 2017年 HangZhouZhangYing. All rights reserved.
+//
+
+#ifndef LQMainProject_pch
+#define LQMainProject_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "LQPrefixHeader.pch"
+
+#endif /* LQMainProject_pch */
